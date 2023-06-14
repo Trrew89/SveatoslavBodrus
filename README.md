@@ -9,6 +9,11 @@
 [<img align="left" alt="malik | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br/>
 
+### Main Projects:
+https://github.com/Trrew89/Marvel-First-Api-Project
+https://github.com/Trrew89/React-Chess
+https://github.com/Trrew89/Online-Shop
+
 ### 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
