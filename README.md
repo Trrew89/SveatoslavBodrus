@@ -10,9 +10,9 @@
 <br/>
 
 ### Main Projects:
-https://github.com/Trrew89/Marvel-First-Api-Project
-https://github.com/Trrew89/React-Chess
-https://github.com/Trrew89/Online-Shop
+https://github.com/Trrew89/Marvel-First-Api-Project <br />
+https://github.com/Trrew89/React-Chess <br />
+https://github.com/Trrew89/Online-Shop <br />
 
 ### 💻 Tech Stack:
 
