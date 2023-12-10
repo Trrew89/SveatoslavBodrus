@@ -10,8 +10,12 @@
 <br/>
 
 ### Main Projects:
-Working with API from Marvel(showing characters, comics, etc): https://github.com/Trrew89/Marvel-First-Api-Project <br />
+Working with API from Marvel(showing characters, comics, etc): https://github.com/Trrew89/Marvel-First-Api-Project  <br />
+On Vercel: marvel-api-project-sveatoslav.vercel.app  <br /> 
+<br />
 Chess on React(using Class components): https://github.com/Trrew89/React-Chess <br />
+On Vercel: react-chess-sveatoslav.vercel.app <br />
+<br />
 Creating my own API using Node.js(Express, Mongoose(MongoDB)) and working with it: https://github.com/Trrew89/streamers <br />
 
 ### 💻 Tech Stack:
