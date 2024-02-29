@@ -9,16 +9,16 @@
 [<img align="left" alt="malik | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br/>
 
-/*
-### Main Projects:
+<!--- ### Main Projects:
 Working with API from Marvel(showing characters, comics, etc): https://github.com/Trrew89/Marvel-First-Api-Project  <br />
 On Vercel: https://marvel-api-project-sveatoslav.vercel.app  <br /> 
 <br />
 Chess on React(using Class components): https://github.com/Trrew89/React-Chess <br />
 On Vercel: https://react-chess-sveatoslav.vercel.app <br />
 <br />
-Creating my own API using Node.js(Express, Mongoose(MongoDB)) and working with it: https://github.com/Trrew89/streamers <br />
-*/
+Creating my own API using Node.js(Express, Mongoose(MongoDB)) and working with it: https://github.com/Trrew89/streamers <br /> --->
+
+
 
 ### 💻 Tech Stack:
 
